@@ -9,11 +9,6 @@ Documentos
 
 Essas hipóteses foram formuladas com base em modelos econômicos conhecidos e podem servir como ponto de partida para análises mais detalhadas usando a base de dados fornecida. A interpretação dos resultados deve considerar a natureza específica das relações propostas por cada hipótese.
 
-Dados: elemento fundamental da pesquisa acadêmica
-Uma das etapas fundamentais do método científico e do processo de desenvolvimento da ciência, é a validação e testagem empírica de uma teoria ou hipótese advinda de um modelo formal. A ideia dessa atividade é simples: usar dados e seu conhecimento em Python para apresentar evidências à favor ou contrárias a resultados econômicos.
-
-
-
 # Conteúdo da atividade
 Partindo do seu conhecimento acumulado até aqui:
 
